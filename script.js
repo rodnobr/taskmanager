@@ -40,7 +40,7 @@ function addTask() {
     taskList.appendChild(li);
     // Resetar inputs
     taskName.value = "";
-    taskPriority.value = "";
+    taskPriority.value = "alta";
   }
 }
 
